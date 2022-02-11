@@ -8,4 +8,4 @@
 * знание языка программирования  SWIFT
 * умение работать c Git — распределённая система управления версиями
 
-![Фото](/Users/sokol8807/Documents/NetologyGit/Resume/img/Sokolov.jpeg)
+![Фото](img/Sokolov.jpeg)
